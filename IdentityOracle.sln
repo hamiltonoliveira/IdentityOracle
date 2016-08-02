@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{F0063B4E-2EA5-4105-82E9-A1E45A7E9517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TB.IdentityOracle.Presentation.MVC", "src\TB.IdentityOracle.Presentation.MVC\TB.IdentityOracle.Presentation.MVC.csproj", "{582BBFA2-4D46-436F-B8EE-31101FF54BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{582BBFA2-4D46-436F-B8EE-31101FF54BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582BBFA2-4D46-436F-B8EE-31101FF54BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582BBFA2-4D46-436F-B8EE-31101FF54BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582BBFA2-4D46-436F-B8EE-31101FF54BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{582BBFA2-4D46-436F-B8EE-31101FF54BE7} = {F0063B4E-2EA5-4105-82E9-A1E45A7E9517}
+	EndGlobalSection
+EndGlobal
